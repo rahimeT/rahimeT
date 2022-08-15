@@ -8,7 +8,7 @@ I have been working on coding for about 3 years and my aim is to see myself amon
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [rahimeturkmennn@gmail.com](mailto:rahimeturkmennn@gmail.com)
-* 🧠  I'm learning Java Spring
+* 🧠  I'm working on docker, azure, CI/CD processes on the way to being a devops engineer.
 
 ### Skills
 
