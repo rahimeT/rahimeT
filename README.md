@@ -6,9 +6,9 @@ Computer Science Student
 
 I have been working on coding for about 3 years and my aim is to see myself among the leaders of the industry in this field.
 
-* 🌍  I'm based in Istanbul
+* 🌍  I'm based in Yalova
 * ✉️  You can contact me at [rahimeturkmennn@gmail.com](mailto:rahimeturkmennn@gmail.com)
-* 🧠  I'm working on docker, azure, CI/CD processes on the way to being a devops engineer.
+* 🧠  I am working on developing projects in Microservice architecture, developing on Vmware tanzu and tanzu application platform.
 
 ### Skills
 
