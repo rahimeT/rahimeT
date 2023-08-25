@@ -7,7 +7,7 @@ Computer Science Student
 I have been working on coding for about 3 years and my aim is to see myself among the leaders of the industry in this field.
 
 * 🌍  I'm based in Yalova
-* ✉️  You can contact me at [rahimeturkmennn@gmail.com](mailto:rahimeturkmennn@gmail.com)
+* ✉️  You can contact me at [rturkmen@ankasoft.co](mailto:rturkmen@ankasoft.co)
 * 🧠  I am working on developing projects in Microservice architecture, developing on Vmware tanzu and tanzu application platform.
 
 ### Skills
