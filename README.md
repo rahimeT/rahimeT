@@ -1,7 +1,7 @@
 Hi 👋 My name is Rahime
 =======================
 
-Computer Science Student
+DevOps Engineer
 ------------------------
 
 I have been working on coding for about 3 years and my aim is to see myself among the leaders of the industry in this field.
