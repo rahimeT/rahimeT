@@ -27,7 +27,9 @@ I have been working on coding for about 3 years and my aim is to see myself amon
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes.svg" width="36" height="36" alt="Kubernetes" />
+    </a>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/golang.svg" width="36" height="36" alt="Golang" />
 </p>
 
