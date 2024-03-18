@@ -27,10 +27,12 @@ I have been working on coding for about 3 years and my aim is to see myself amon
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36" height="36" alt="Kubernetes" />
     </a>
+   <a href="https://go.dev/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" width="36" height="36" alt="Golang" />
+</a>
 </p>
 
 
