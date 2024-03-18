@@ -1,4 +1,4 @@
-Hi 👋 My name is Rahime
+# Hi 👋 My name is Rahime
 =======================
 
 DevOps Engineer
@@ -6,9 +6,9 @@ DevOps Engineer
 
 I have been working on coding for about 3 years and my aim is to see myself among the leaders of the industry in this field.
 
-* 🌍  I'm based in Yalova
-* ✉️  You can contact me at [rturkmen@ankasoft.co](mailto:rturkmen@ankasoft.co)
-* 🧠  I am working on developing projects in Microservice architecture, developing on Vmware tanzu and tanzu application platform.
+* 🌍 I'm based in Yalova
+* ✉️ You can contact me at [rturkmen@ankasoft.co](mailto:rturkmen@ankasoft.co)
+* 🧠 I am working on developing projects in Microservice architecture, developing on Vmware tanzu and tanzu application platform.
 
 ### Skills
 
@@ -20,7 +20,8 @@ I have been working on coding for about 3 years and my aim is to see myself amon
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/golang.svg" width="36" height="36" alt="Golang" /></a>
 </p>
 
 
