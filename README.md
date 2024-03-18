@@ -28,7 +28,7 @@ I have been working on coding for about 3 years and my aim is to see myself amon
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
- <img src="https://miro.medium.com/v2/resize:fit:336/1*glD7bNJG3SlO0_xNmSGPcQ.png" width="36" height="36" alt="Kubernetes" />
+ <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" width="36" height="36" alt="Kubernetes" />
     </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36" height="36" alt="Kubernetes" />
