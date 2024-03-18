@@ -11,7 +11,6 @@ I have been working on coding for about 3 years and my aim is to see myself amon
 * 🧠 I am working on developing projects in Microservice architecture, developing on Vmware tanzu and tanzu application platform.
 
 ### Skills
-
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
@@ -34,12 +33,8 @@ I have been working on coding for about 3 years and my aim is to see myself amon
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes.svg" width="36" height="36" alt="Kubernetes" />
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/golang.svg" width="36" height="36" alt="Golang" />
-  </a>
+  **<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes.svg" width="36" height="36" alt="Kubernetes" />**  
+  **<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/golang.svg" width="36" height="36" alt="Golang" />**
 </p>
 
 
